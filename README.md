@@ -1,3 +1,3 @@
 # Jorge Salas Leybon
 
-- Enlace de la practica 1
+- [Practica 1](https://github.com/JorSL1120/Lenguajes_Interpretados_Jorge_Salas/blob/main/practica-1.md)
