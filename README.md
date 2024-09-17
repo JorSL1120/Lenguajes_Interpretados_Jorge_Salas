@@ -4,3 +4,4 @@
 - [Practica 3](https://github.com/JorSL1120/Practica3_LenguajesInterpretados.git)
 - [Practica 5](/practica-5.md)
 - [Practica 6](https://github.com/JorSL1120/practica_6)
+- [Practica 7](https://github.com/JorSL1120/practica_6)
